@@ -6,7 +6,7 @@ public static void main(String[] args) {
 
 		//This is updated by user01
 		
-		System.out.println("I am From Main");
+		
 	}
 	
 
